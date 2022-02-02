@@ -1,0 +1,39 @@
+body{
+    position: relative;
+    min-height: 100vh;
+}
+
+#social_container {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(47, 50, 56);
+    height: 100px;
+    opacity: 0.9;
+}
+.social {
+    padding: 2.5rem 15px;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+}
+
+footer{
+    box-shadow: 0px -10px 8px black;
+    margin-top: 20px;
+    height: 150px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+#design_footer {
+    position: relative;
+    height: 50px;
+    background-color: grey;
+    opacity: 0.9;
+}
+#designer {
+    text-align: center;
+    color: aliceblue;
+    padding-top: 15px;
+    margin: 0%;
+}
